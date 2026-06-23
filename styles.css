@@ -1979,7 +1979,7 @@ rgba(255,255,255,0.08), rgba(255,255,255,0.04)
 
   /* Center typing button */
   .typing-wrap {
-    margin: 20px auto;
+    /* margin: 20px auto; */
     width: fit-content;
     max-width: 90%;
     justify-content: left;
