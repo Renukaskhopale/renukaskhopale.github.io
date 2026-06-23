@@ -344,8 +344,8 @@ button {
 
 .btn {
   display: inline-flex;
-  align-items: center;
-  justify-content: center;
+  align-items: left;
+  justify-content: left;
   min-height: 52px;
   padding: 0 20px;
   border-radius: 16px;
